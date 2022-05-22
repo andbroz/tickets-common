@@ -24,3 +24,5 @@ npm version patch
 ```console
 npm publish --access public
 ```
+
+### More
