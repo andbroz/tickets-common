@@ -1,5 +1,10 @@
 # Common module for course on microservices by Stephen Grider
 
+## Contents
+
+- Errors handling
+- Middlewares
+
 ## To build
 
 ```console

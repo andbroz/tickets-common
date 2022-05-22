@@ -131,3 +131,5 @@ dist
 
 #build folder
 build
+
+.npmrc
