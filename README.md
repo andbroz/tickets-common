@@ -5,19 +5,21 @@
 - Errors handling
 - Middlewares
 
-## To build
+## Commands for project
+
+### To build
 
 ```console
 npm run build
 ```
 
-## New version
+### New version
 
 ```console
 npm version patch
 ```
 
-## Publish to NPM Registry
+### Publish to NPM Registry
 
 ```console
 npm publish --access public
