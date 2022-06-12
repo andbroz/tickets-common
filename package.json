@@ -1,6 +1,6 @@
 {
   "name": "@ab-learn-org/common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ticekting app common module",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
